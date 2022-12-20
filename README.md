@@ -4,7 +4,7 @@
 
 Languages used: None
 
-Tools used: Tableau Public
+Tools used: Tableau Public Desktop
 
 Data Source: Created xlsx files from COVID-19 Analysis SQL queries
 
@@ -13,6 +13,6 @@ Data Source: Created xlsx files from COVID-19 Analysis SQL queries
 2. Data Cleaning - filling in missing values
 3. Visualizing the data in Tableau, creating a dashboard
 
-Visualization URL: https://public.tableau.com/app/profile/ishita.agarwal6477/viz/COVID-19_Visualization_16554791849460/Dashboard1
+Visualization URL: https://public.tableau.com/app/profile/ishita.parekh/viz/COVID-19_Visualization_16554791849460/Dashboard1
 
 
